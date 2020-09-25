@@ -6,23 +6,23 @@ You can view this live! Go here ->
 
 ## Adding Content
 
-To add new content, simply add a markdown file called index.md into the content directory. The url will depend on where you put the new file. e.g. a file in content/new/index.md will have a url of XXXX/new
+To add new content, simply add a markdown file called index.md into the content directory. The url will depend on where you put the new file. e.g. a file in content/new/index.md will have a url of https://sshepherd-static-content.azurewebsites.net/new
 
 Adding content to this repo will automatically kick off a new build of the site.
 Adding content will NOT automatically add a link on the page to the new section
 
 ## Installation
 
-Clone the [repository](https://gitlab.com/mm12seh1/static-content-challenge):
+Clone the [repository](https://github.com/Zheynas/static-content-challenge):
 
 ```bash
-git clone git@gitlab.com:mm12seh1/static-content-challenge.git && cd static-content-challenge
+git clone git@github.com:Zheynas/static-content-challenge.git && cd static-content-challenge
 ```
 
 or
 
 ```bash
-git clone https://gitlab.com/mm12seh1/static-content-challenge.git && cd static-content-challenge
+git clone https://github.com/Zheynas/static-content-challenge.git && cd static-content-challenge
 ```
 
 Install all dependencies using Yarn:

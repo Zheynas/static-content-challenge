@@ -1,7 +1,7 @@
 # Static Content Challenge
 ### Samantha Shepherd
 
-## Url
+## Viewing this site
 You can view this live! Go here -> 
 
 ## Adding Content
@@ -13,10 +13,10 @@ Adding content will NOT automatically add a link on the page to the new section
 
 ## Installation
 
-Clone the [repository](XXXX):
+Clone the [repository](https://gitlab.com/mm12seh1/static-content-challenge):
 
 ```bash
-git clone XXXXX && cd static-content-challenge
+git clone git@gitlab.com:mm12seh1/static-content-challenge.git && cd static-content-challenge
 ```
 
 Install all dependencies using Yarn:
@@ -35,7 +35,7 @@ yarn cross-env NODE_ENV=production nodemon ./start.js
 or
 
 ```bash
- yarn start:watch
+yarn start:watch
 ```
 
 Or without hotloading using: 
@@ -47,7 +47,7 @@ yarn cross-env NODE_ENV=production node ./start.js
 or
 
 ```bash
- yarn start
+yarn start
 ```
 
 And then you can access the site via http://localhost:8080/
@@ -63,7 +63,7 @@ yarn cross-env NODE_ENV=test jest
 or
 
 ```bash
- yarn test
+yarn test
 ```
 
 To help with testing I have used cross-env and react-config to create a config file that determines the filepath of the directories in the endpoint

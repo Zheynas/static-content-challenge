@@ -19,6 +19,12 @@ Clone the [repository](https://gitlab.com/mm12seh1/static-content-challenge):
 git clone git@gitlab.com:mm12seh1/static-content-challenge.git && cd static-content-challenge
 ```
 
+or
+
+```bash
+git clone https://gitlab.com/mm12seh1/static-content-challenge.git && cd static-content-challenge
+```
+
 Install all dependencies using Yarn:
 
 ```bash

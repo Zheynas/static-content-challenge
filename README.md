@@ -2,7 +2,7 @@
 ### Samantha Shepherd
 
 ## Viewing this site
-You can view this live! Go here -> 
+You can view this live! Go here -> https://sshepherd-static-content.azurewebsites.net
 
 ## Adding Content
 

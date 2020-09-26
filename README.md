@@ -28,7 +28,7 @@ git clone https://github.com/Zheynas/static-content-challenge.git && cd static-c
 Install all dependencies using Yarn:
 
 ```bash
-yarn install
+yarn
 ```
 
 ## Development

@@ -4,7 +4,7 @@
 ## Viewing this site
 You can view this live! Go here -> https://sshepherd-static-content.azurewebsites.net
 
-Note: It is hosted on a consumption tier so it might take a few mins to warm up.
+Note: It is hosted on a consumption tier so it might take a few mins to warm up, it works best if you open the link on a new tab i've found
 
 ## Adding Content
 
